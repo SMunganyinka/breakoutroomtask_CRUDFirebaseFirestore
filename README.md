@@ -22,8 +22,8 @@ The app is built around real-time Firestore updates, so changes appear immediate
 - Cloud Firestore
 
 ## Breakoutroom members
-Shakira Munganyinka
-Giselle Amen Mwizera
-Seth Abijuru
-Kenny Rukoro
+- Shakira Munganyinka
+- Giselle Amen Mwizera
+- Seth Abijuru
+- Kenny Rukoro
 
