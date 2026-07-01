@@ -1,17 +1,29 @@
 # todolist
 
-A new Flutter project.
+## Project Overview
 
-## Getting Started
+Todolist is a Flutter app that uses Firebase Firestore to manage a live todo list. It lets users add tasks, mark them as complete, edit existing items, delete individual todos, and clear all completed tasks at once.
 
-This project is a starting point for a Flutter application.
+The app is built around real-time Firestore updates, so changes appear immediately across the list without needing a manual refresh. It also includes Firebase initialization in `main.dart` and a dedicated service layer for all todo database operations.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Add a new todo
+- View todos in real time from Firestore
+- Mark todos as complete or incomplete
+- Edit an existing todo
+- Delete a single todo
+- Delete all completed todos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+- Flutter
+- Firebase Core
+- Cloud Firestore
+
+## Breakoutroom members
+Shakira Munganyinka
+Giselle Amen Mwizera
+Seth Abijuru
+Kenny Rukoro
+
